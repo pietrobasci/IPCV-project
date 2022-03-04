@@ -2,11 +2,9 @@
 
 Final project for the course "Image Processing and Computer Vision" @Politecnico di Torino. 
 
-*Main algorithms and techniques:* Haar Cascade Classifiers, BackgroundSubtractorMOG2.
-<br>
-*Evaluation metrics:* Accuracy, Precision, Recall, F1-score.
-<br>
-*Programming language and main libraries:* Python, OpenCV.
+* *Main algorithms and techniques:* Haar Cascade Classifiers, BackgroundSubtractorMOG2.
+* *Evaluation metrics:* Accuracy, Precision, Recall, F1-score.
+* *Programming language and main libraries:* Python, OpenCV.
 
 
 ### Abstract
